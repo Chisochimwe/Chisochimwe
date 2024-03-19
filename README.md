@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Chisochimwe
+- 👀 I’m interested in Ethical hacking 
+- 🌱 I’m currently learning computer systems and security 
+- 💞️ I’m looking to collaborate on beginner friendly ethical hacking projects 
+- 📫
+- 😄 
